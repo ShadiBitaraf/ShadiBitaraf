@@ -1,4 +1,6 @@
-<h1>Hi, I'm Shadi! <br/><a href="https://github.com/shadibitaraf">Programmer</a>, <a href="https://www.linkedin.com/in/shadibitaraf/">Entrepreneur</a>, Student</a></h1>
+<h1>Hi, I'm Shadi! </h1>
+<!--<br/><a href="https://github.com/shadibitaraf">Programmer</a>, <a href="https://www.linkedin.com/in/shadibitaraf/">Entrepreneur</a>, Student</a>
+-->
 
 <h2>👩‍💻 Programming Projects:</h2>
 
